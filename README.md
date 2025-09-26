@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Jung's%Github&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Jung's%20Github&fontAlignY=50&fontSize=40&height=200)
 
 ## Hi there 👋
 
