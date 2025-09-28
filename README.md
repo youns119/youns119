@@ -29,20 +29,20 @@ ___
 
 ___
 
-<img align='right' src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="200" height="1" />
-<img align='left' src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="200" height="1" />
-
 ```cpp
 const JYW =
 {
-  Gender = "male"
-  Language = { C, C++, C#, CSS },
-  Tools = { Visual Studio, Visual Studio Code },
-  API = { DirectX9, DirectX11, WinAPI, MFC },
-  Engine = { Unity, Unreal Engine },
-  Todo = "Just Code it!"
+  Gender = "male"                                         ___              _     _____             _         _____  _    _
+  Language = { C, C++, C#, CSS },                        |_  |            | |   /  __ \           | |       |_   _|| |  | |
+  Tools = { Visual Studio, Visual Studio Code },           | | _   _  ___ | |_  | /  \/  ___    __| |  ___    | |  | |_ | |
+  API = { DirectX9, DirectX11, WinAPI, MFC },              | || | | |/ __|| __| | |     / _ \  / _` | / _ \   | |  | __|| |
+  Engine = { Unity, Unreal Engine },                   /\__/ /| |_| |\__ \| |_  | \__/\| (_) || (_| ||  __/  _| |_ | |_ |_|
+  Todo = "Just Code it!"                               \____/  \__,_||___/ \__|  \____/ \___/  \__,_| \___|  \___/  \__|(_)
 }
+                                                              
 ```
+
+___
 
 <div align="center">
 
