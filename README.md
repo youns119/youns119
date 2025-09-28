@@ -27,8 +27,6 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
 ___
 
 ```javascript
@@ -50,6 +48,7 @@ ___
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
+  ### Git Status 📊
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
