@@ -17,8 +17,9 @@ I'm **YounWook Jung**, *Game Client Programmer* 🎮
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/VisualStudio-CC3333?style=flat-square&logo=visualstudio&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/DirectX-263238?style=flat-square&logo=&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VisualStudio-9013FE?style=flat-square&logo=visualstudio&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VisualStudio Code-008C99?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/DirectX-41AD48?style=flat-square&logo=&logoColor=white"/> 
   <img src="https://img.shields.io/badge/WinAPI-F93821?style=flat-square&logo=windows&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MFC-1C3664?style=flat-square&logo=&logoColor=white"/>
 </p>
@@ -26,9 +27,10 @@ I'm **YounWook Jung**, *Game Client Programmer* 🎮
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ```cpp
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+const JYW =
+{
+  gender = "male",
+  code = [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -36,6 +38,6 @@ const thai = {
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
