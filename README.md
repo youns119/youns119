@@ -29,8 +29,11 @@ ___
 
 ___
 
+<img align='right' src="https://via.placeholder.com/200x1/00000000/00000000" width="200" height="1"/>
+
 ```javascript
-const JYW = {
+const JYW =
+{
   Gender = "male"
   Language = { C, C++, C#, CSS },
   Tools = { Visual Studio, Visual Studio Code },
