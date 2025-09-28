@@ -29,6 +29,10 @@ ___
 
 ___
 
+<table border="0">
+  <tr>
+    <td>
+
 ```cpp
 const JYW =
 {
@@ -41,11 +45,12 @@ const JYW =
 }
 ```
 
-___
+</td>
+<td>
+  
+### Git Status 📊
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+</td>
+</tr> </table>
   
-  ### Git Status 📊
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
