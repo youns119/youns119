@@ -6,7 +6,7 @@ Welcome to my page!\
 I'm **YounWook Jung**, *Game Client Programmer* 🎮
 
 <br/>
-<img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9 width="400">
+<img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9 width="450">
 
 ### Stacks 💻
 
