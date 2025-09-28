@@ -29,9 +29,8 @@ ___
 
 ___
 
-<table border="0">
-  <tr>
-    <td>
+<img align='right' src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="200" height="1" />
+<img align='left' src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="200" height="1" />
 
 ```cpp
 const JYW =
@@ -45,11 +44,12 @@ const JYW =
 }
 ```
 
-</td>
-<td>
-  
-### Git Status 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+  ### Git Status 📊
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 </td>
 </tr> </table>
