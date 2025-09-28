@@ -5,7 +5,7 @@
 Welcome to my page!\
 I'm **YounWook Jung**, *Game Client Programmer* 🎮
 
-- - -
+___
 
 <img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9 width="450">
 
@@ -27,13 +27,14 @@ I'm **YounWook Jung**, *Game Client Programmer* 🎮
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  
-```cpp
-const JYW =
-{
-  gender = "male",
-  code = [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+<br/>
+
+___
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
@@ -41,8 +42,14 @@ const JYW =
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+___
+
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youns119&show_icons=true&rank_icon=github&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
