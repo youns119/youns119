@@ -5,10 +5,9 @@
 Welcome to my page!\
 I'm **YounWook Jung**, *Game Client Programmer* 🎮
 
-<br/>
 <img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9 width="450">
 
-### Stacks 💻
+> ### Stacks 💻
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -26,6 +25,8 @@ I'm **YounWook Jung**, *Game Client Programmer* 🎮
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="left">
+  
 ```cpp
 const JYW =
 {
@@ -41,3 +42,5 @@ const JYW =
   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
+
+</div>
