@@ -5,4 +5,37 @@
 Welcome to my page!\
 I'm **YounWook Jung**, *Game Client Programmer* 🎮
 
-![Image](https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9)
+<br/>
+<img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9>
+
+### Stacks 💻
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C Sharp-5BA37F?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/VisualStudio-CC3333?style=flat-square&logo=visualstudio&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/DirectX-263238?style=flat-square&logo=&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/WinAPI-F93821?style=flat-square&logo=windows&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MFC-1C3664?style=flat-square&logo=&logoColor=white"/>
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+```cpp
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
