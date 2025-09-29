@@ -20,6 +20,9 @@ ___
   <br/>
   <img src="https://img.shields.io/badge/VisualStudio-9013FE?style=flat-square&logo=visualstudio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/VisualStudio Code-008C99?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> 
+  <br/>
   <img src="https://img.shields.io/badge/DirectX-41AD48?style=flat-square&logo=&logoColor=white"/> 
   <img src="https://img.shields.io/badge/WinAPI-F93821?style=flat-square&logo=windows&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MFC-1C3664?style=flat-square&logo=&logoColor=white"/>
