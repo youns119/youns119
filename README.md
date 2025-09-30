@@ -5,9 +5,7 @@
 Welcome to my page!\
 I'm **YounWook Jung**, *Game Client Programmer* 🎮 
 
-<p>
-  <img src="https://img.shields.io/badge/Github.io-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+[![GitHub Blog](https://img.shields.io/badge/Github.io-181717?style=flat-square&logo=github&logoColor=white)](https://youns119.github.io/)
 
 ___
 
