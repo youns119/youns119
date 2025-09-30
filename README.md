@@ -3,9 +3,12 @@
 ## 👋 Hi! Nice to see you
 
 Welcome to my page!\
-I'm **YounWook Jung**, *Game Client Programmer* 🎮
+I'm **YounWook Jung**, *Game Client Programmer* 🎮 
 
-<img src="https://img.shields.io/badge/Github.io-181717?style=flat-square&logo=github&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Github.io-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
 ___
 
 <img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9 width="450">
