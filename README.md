@@ -30,7 +30,7 @@ ___
   <img src="https://img.shields.io/badge/MFC-1C3664?style=flat-square&logo=&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-xi-opal.vercel.app/api/top-langs/?username=youns119&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
