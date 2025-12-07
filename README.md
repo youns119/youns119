@@ -11,6 +11,8 @@ ___
 
 <img align='right' src= https://github.com/user-attachments/assets/aa774e1f-fc43-46c2-81d7-1b325c4013a9 width="450">
 
+![image](https://github.com/user-attachments/assets/9d8f2ec4-ae22-4332-96e6-630dd35d6811)
+
 > ### Stacks 💻
 
 <p>
